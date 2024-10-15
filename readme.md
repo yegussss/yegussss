@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Josemaría's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josemaría&show_icons=true&theme=tokyonight" alt="Josemaría's GitHub stats" />
 </p>
 
 ---
